@@ -889,6 +889,11 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
+"@jsplumb/community@^4.0.0-RC20":
+  version "4.0.0-RC20"
+  resolved "https://registry.npm.taobao.org/@jsplumb/community/download/@jsplumb/community-4.0.0-RC20.tgz#fd8a1dadc9330a32013dc56d6cef7d209db4fef7"
+  integrity sha1-/YodrckzCjIBPcVtbO99IJ20/vc=
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/@mrmlnc/readdir-enhanced/download/@mrmlnc/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
